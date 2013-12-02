@@ -11,3 +11,4 @@ Niquecraft Realms
 
 * Graveyards are placed all over the map. When you die you will respawn as a ghost (transperent player which is done with invisiblity and teams). A dead body is also placed at your location (An npc of yourself set to sleeping) and you have 5 minutes to get to your body and save your items. After 5 minutes anyone can access your body. When you are a ghost you can not interact with the world in any way and you need to go to your body to come back to life.
 
+* Waypoints are set via an eye of ender. Clicking on an eye of ender opens up the waypoint interface. Here you can browse all your set waypoitns and add new ones. Premium players should get extra waypoints. When you click on a set waypoint, it will spawn an eye of ender every 3 seconds at your player pointing towards the location of the set waypoint.
