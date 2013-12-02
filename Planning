@@ -1,1 +1,13 @@
+Niquecraft Realms
+
+
+* Each town has a stable, when you ride your horse into a stable it dissapears and is added to the "stables". You can load all your horses from the stables by speaking the the Stable Master, an NPC who sits in the stables of each town. Clicking on him brings up the stables interface which lists all your horses which are in stables. You can then click on the icon for a horse to mount it. Stables are a quick way to teleport horses between towns (that have stables) and also a safe place to keep your beloved horsies. Everyone is limited to a maximum of 9 horses in their stable.
  
+* Towns where pvp is enabled could have groups of bandits attack the town and anyone in it. Bandits could raid shops, put them out of buissness for a while, certian npc's could lock their doors so no body can enter their land which bandits are raiding which could be an awesome quest where you have to "save the village".
+
+* Loot chests will be randomly placed around the map, opening it deletes it for a random amount of time. This can already be done with the PhatLoots plugin, but we could just create something similar for easy support with the rest of our plugins. Should be done via serialzation where the region name can be set, what items in that region name and the rarity of items. Delete the chest when its clicked and load an inventory from this data to show to the player. This will seem like they are just opening the chest.
+
+* Items will be generated randomly using a set of rules coded in to the plugin that generates the items. For example the name can be a mixture of strings, certian strings are rare while others are not. The name can also relate to what type of item it is. For example "Flame" could have a 3% chance and provides fire aspect. "Battle" could have a 20% chance to spawn, deal more damage than regular swords, has an increased hit range but swings slower.
+
+* Graveyards are placed all over the map. When you die you will respawn as a ghost (transperent player which is done with invisiblity and teams). A dead body is also placed at your location (An npc of yourself set to sleeping) and you have 5 minutes to get to your body and save your items. After 5 minutes anyone can access your body. When you are a ghost you can not interact with the world in any way and you need to go to your body to come back to life.
+
