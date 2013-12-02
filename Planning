@@ -30,3 +30,6 @@ Niquecraft Realms
 * Waypoints are set via an eye of ender. Clicking on an eye of ender opens up the waypoint interface. Here you can browse
   all your set waypoitns and add new ones. Premium players should get extra waypoints. When you click on a set waypoint,
   it will spawn an eye of ender every 3 seconds at your player pointing towards the location of the set waypoint.
+
+* When you right click on a player in a safe area, you are shown an interface where you can view their stats about what
+  they are wearing, what guild they're in. You can also challenge them to a duel or request to trade with them.
