@@ -25,7 +25,8 @@ Niquecraft Realms
 * Graveyards are placed all over the map. When you die you will respawn as a ghost (transperent player which is done with
   invisiblity and teams). A dead body is also placed at your location (An npc of yourself set to sleeping) and you have
   5 minutes to get to your body and save your items. After 5 minutes anyone can access your body. When you are a ghost
-  you can not interact with the world in any way and you need to go to your body to come back to life.
+  you can not interact with the world in any way and you need to go to your body to come back to life. once respawned
+  health will be at 60% 
 
 * Waypoints are set via an eye of ender. Clicking on an eye of ender opens up the waypoint interface. Here you can browse
   all your set waypoitns and add new ones. Premium players should get extra waypoints. When you click on a set waypoint,
@@ -33,3 +34,19 @@ Niquecraft Realms
 
 * When you right click on a player in a safe area, you are shown an interface where you can view their stats about what
   they are wearing, what guild they're in. You can also challenge them to a duel or request to trade with them.
+  
+* entering a new area, comes up with the name and a colour depending on the level, 
+  eg. 5+ levels higher avg, red name . . . 2-5 levels higher orange name . . . 1 level difference, yellow name ect
+  same goes for separate mobs and players.
+  
+* fast travel,via dragon, fly from major city to major city!
+  idea 1 : (all players) need to discover the city first before they can hire a dragon for fast
+  travel this for of travel would be expensive tho,
+  idea 2 : only premium members can use the fast travel option, ( maybe needing to discover city first ) <- good idea
+  
+* Quest books, a bunch of hand written books that can be bought and read, some of these books, will automatically give
+  you a quest once you've started to read it, ( reading all of the books could also give you a special vanity item ) 
+  
+* quest log, a book that updates automatically, about which quests you are currently doing, and quests you have
+  completed, this would be per player, and they cant throw it away and it does not get deleted on death. it is always
+  that players quest log
